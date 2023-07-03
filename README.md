@@ -1,8 +1,36 @@
-# Pattern-Recognition(2022-2)
+## Subject
 
-  패턴인식 프로젝트
-  
-    - 감정인식을 통한 음악 플레이리스트 추천 서비스(Kakao Melon Dataset 활용)
-        - 출처: Kakao Arena (https://arena.kakao.com)
+---
 
-최종 발표 영상 링크 : https://youtu.be/kMRgzWzdTno
+- 감정인식을 통한 음악추천 웹 서비스 제작 
+
+---
+
+## Key Point
+
+---
+
+- PCA 인물인식 실습
+- 감정인식을 통한 음악추천 웹 서비스 구현
+
+---
+
+## Role
+
+---
+
+- PCA 인물인식 실습 코드 작성
+- Django이용 감정인식을 통한 음악추천 웹 서비스 구현
+
+---
+
+## **Capabilities**
+
+---
+
+- dlib 라이브러리 활용 얼굴인식 및 PCA이용 인물인식 실습
+- FER2013 감정 공개 데이터 셋 활용 전처리 경험
+- CNN을 이용한 감정분류 모델 제작 경험
+- Django 이용 웹 서비스 구현 능력
+
+---
