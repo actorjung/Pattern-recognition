@@ -34,3 +34,5 @@
 - Django 이용 웹 서비스 구현 능력
 
 ---
+
+<img width="909" alt="스크린샷 2023-11-08 오후 2 59 13" src="https://github.com/actorjung/Pattern-recognition/assets/112843229/c9f6bbba-2fe4-49c2-939a-3f2738b23898">
